@@ -1,4 +1,4 @@
-In this project, let's build a **Jobby App** by applying the concepts we have learned till now.
+###Jobby-App (Glassdoor Clone)
 
 ### Refer to videos below:
 
@@ -63,12 +63,11 @@ In this project, let's build a **Jobby App** by applying the concepts we have le
 
 ### Set Up Instructions
 
-<details>
-<summary>Click to view</summary>
+
 
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
-</details>
+
 
 ### Completion Instructions
 
